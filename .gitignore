@@ -36,7 +36,6 @@ Thumbs.db
 
 # folders #
 ######################
-config
 imersao_dev
 alura
 
@@ -48,3 +47,7 @@ node_modules
 ######################
 *.mp4
 *.png
+
+# sensitive data #
+######################
+accessDb.js
